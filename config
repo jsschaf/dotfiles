@@ -1,0 +1,11 @@
+Host oncampus
+	HostName oncampus-course.engin.umich.edu
+	User jsschaf
+
+Host offcampus
+	HostName login-course-2fa.engin.umich.edu
+	User jsschaf
+
+Host sure
+	Hostname 141.212.106.178
+	User jsschaf
